@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Mina Ahmadi
-- 🔭 I’m currently working on android programming
-- 🌱 I’m currently learning kotlin language
+- 🔭 I’m currently working on backend programming
+- 🌱 I’m currently learning React and Django language
 - ⚡ Fun fact: I love waching movies and playing board games 
 - 📫 How to reach me:1999minaahmadi@gmail.com
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaAhmadi77&layout=compact&hide=html" alt="akhilgkrishnan" /></p>
